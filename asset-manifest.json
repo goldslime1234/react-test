@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/goldslime1234/react-test.git/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/goldslime1234/react-test.git/static/js/main.38f09f7e.chunk.js",
+    "main.js.map": "/goldslime1234/react-test.git/static/js/main.38f09f7e.chunk.js.map",
+    "runtime-main.js": "/goldslime1234/react-test.git/static/js/runtime-main.2239fe05.js",
+    "runtime-main.js.map": "/goldslime1234/react-test.git/static/js/runtime-main.2239fe05.js.map",
+    "static/js/2.8a711379.chunk.js": "/goldslime1234/react-test.git/static/js/2.8a711379.chunk.js",
+    "static/js/2.8a711379.chunk.js.map": "/goldslime1234/react-test.git/static/js/2.8a711379.chunk.js.map",
+    "index.html": "/goldslime1234/react-test.git/index.html",
+    "precache-manifest.ceeffc6a21c93cd334540e2ec6635f65.js": "/goldslime1234/react-test.git/precache-manifest.ceeffc6a21c93cd334540e2ec6635f65.js",
+    "service-worker.js": "/goldslime1234/react-test.git/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/goldslime1234/react-test.git/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.8a711379.chunk.js.LICENSE.txt": "/goldslime1234/react-test.git/static/js/2.8a711379.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2239fe05.js",
+    "static/js/2.8a711379.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.38f09f7e.chunk.js"
+  ]
+}
